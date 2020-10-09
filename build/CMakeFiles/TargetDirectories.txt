@@ -1,3 +1,0 @@
-/home/deeplearner/Courses/Udacity/NanoDegree-C++-Udacity/Project-Concurrent-Traffic-Simulation/build/CMakeFiles/rebuild_cache.dir
-/home/deeplearner/Courses/Udacity/NanoDegree-C++-Udacity/Project-Concurrent-Traffic-Simulation/build/CMakeFiles/traffic_simulation.dir
-/home/deeplearner/Courses/Udacity/NanoDegree-C++-Udacity/Project-Concurrent-Traffic-Simulation/build/CMakeFiles/edit_cache.dir
