@@ -12,7 +12,7 @@ PARIS
 
 ## Results
 
-<img src="images/result.jpg"/>
+<img src="images/result.gif"/>
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
